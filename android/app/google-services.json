@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186221415992",
+    "project_id": "flytest-de8a1",
+    "storage_bucket": "flytest-de8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186221415992:android:e604c8ef6b91b53d2520cd",
+        "android_client_info": {
+          "package_name": "com.flytest.test_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8htkb_p5bEe5YM-XApTqvv1PS_cHE3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
